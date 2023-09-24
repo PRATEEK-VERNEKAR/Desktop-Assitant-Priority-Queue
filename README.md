@@ -4,8 +4,11 @@ A Destop Assistant is created using C that can control the opening and closing o
 + Paint
 + MS Word
 + Chrome
++ Calculator
++ Notepad
 
 ## Step to run the assistant
 
 > Open Terminal
+
 > Run main.exe
